@@ -1,0 +1,16 @@
+.faqify dt {
+	cursor: pointer;
+	clear: both;
+}
+.faqify dt::before {
+	content: attr(data-icon-closed);
+	display: inline-block;
+}
+.faqify dt.open::before {
+	content: attr(data-icon-open);
+	display: inline-block;
+}
+.faqify dd {
+	display: none;
+	margin: 0;
+}
