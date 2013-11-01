@@ -2,7 +2,7 @@
 
 A simple jQuery plugin for elegant, semantic Frequently Asked Questions
 
-(c) 2013 Samuel Alexander (connormckelvey.com)
+(c) 2013 Connor McKelvey (connormckelvey.com)
 
 Released under The GLPv2 License.
 
